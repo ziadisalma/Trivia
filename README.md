@@ -1,5 +1,5 @@
 # ios101-project4-trivia-starter
-# Project 4 - *Name of App Here*
+# Project 4 - Trivia
 
 Submitted by: Salma Ziadi
 
